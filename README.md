@@ -8,4 +8,8 @@ To perform Data analysis over the apparent changes occurred in the temperature a
 
 It means that we need to find whether the average Apparent temperature for the month of a month say April starting from 2006 to 2016 and the average humidity for the same period have increased or not. This monthly analysis has to be done for all 12 months over the 10 year period.
 
-_**From this analysis we infer that there are either sharp rise in temperatures or sharp falls over the 10 yrs. Hence we can conclude that Global Warming has caused a major difference and unreliability in temperature predictability and also taking humidity into consideration we can say that it has almost remained same throughout the past years.**_
+_**From this analysis we infer that there are either sharp rise in temperatures or sharp falls over the 10 yrs.**_
+
+<h3> Hence we can conclude that Global Warming has caused a major difference and unreliability in temperature predictability and also taking humidity into consideration we can say that it has almost remained same throughout the past years. </h3>
+
+_**Thank you!!**_
