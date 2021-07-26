@@ -1,7 +1,7 @@
 # Performing-Analysis-Of-Meteorological-Data
 ![G](background_g.png)
 
-To perform Data analysis over the apparent changes occurred in the temperature and humidity monthly for over 10 years and to know whether it indicate an increase due to Global Warming. We posed the null hypothesis as follows:
+To perform Data analysis over the apparent changes occurred in the temperature and humidity monthly for over 10 years and to know whether it indicate an increase due to Global Warming. We posed the **null hypothesis** as follows:
 
 <h2> “Has the Apparent Temperature and humidity compared monthly across 10 years of the data indicate an increase due to Global warming.” </h2>
 
